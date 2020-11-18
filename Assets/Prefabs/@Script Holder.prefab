@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &332137878
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 332137879}
+  - component: {fileID: 332137880}
+  m_Layer: 0
+  m_Name: '@Level Manager'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &332137879
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332137878}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5621887843129080282}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &332137880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332137878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e836a055088a8ad4a9dde3d497902a35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &751495612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 751495613}
+  - component: {fileID: 751495614}
+  m_Layer: 0
+  m_Name: '@Camera Shake Manager'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &751495613
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 751495612}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5621887843129080282}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &751495614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 751495612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3d3bd8ae5d5e8c469fa6c3088884dfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _attackDuration: 0.2
+  _attackStrength: 0.3
+  _attackRandomness: 90
+  _attackVibratio: 20
+  _attackFadeOut: 1
+  _takeDamageDuration: 0.1
+  _takeDamageStrength: 0.1
+  _takeDamageRandomness: 60
+  _takeDamageVibratio: 1
+  _takeDamageFadeOut: 1
+--- !u!1 &1398539248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1398539249}
+  - component: {fileID: 1398539250}
+  m_Layer: 0
+  m_Name: '@Barrack Controller'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1398539249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398539248}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5621887843129080282}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1398539250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398539248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b918ca53aaf0d11408ce716877167251, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  btnBlueArcher: {fileID: 0}
+  btnBlueScout: {fileID: 0}
+  isBarracksEnabled: 1
+  isArcherAllowed: 1
+  isScoutAllowed: 1
+--- !u!1 &2062435840939750420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8594892869165299347}
+  - component: {fileID: 7283585467125976998}
+  m_Layer: 0
+  m_Name: CMG
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &8594892869165299347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2062435840939750420}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5621887843129080282}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7283585467125976998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2062435840939750420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8d6d2cac2bee9e47a79a51032badce9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &5621887843129080285
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5621887843129080282}
+  m_Layer: 0
+  m_Name: '@Script Holder'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5621887843129080282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5621887843129080285}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5621887844619813313}
+  - {fileID: 5621887844152448923}
+  - {fileID: 751495613}
+  - {fileID: 1398539249}
+  - {fileID: 332137879}
+  - {fileID: 4427853367059808859}
+  - {fileID: 8594892869165299347}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5621887844152448922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5621887844152448923}
+  - component: {fileID: 5621887844152448920}
+  m_Layer: 0
+  m_Name: '@Object Holder'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5621887844152448923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5621887844152448922}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5621887843129080282}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5621887844152448920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5621887844152448922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9d186c565bbbe4b90eaa543950fe97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tiles: []
+  units: []
+  villages: []
+  mainCamera: {fileID: 0}
+  statsPanel: {fileID: 0}
+  villageStatsPanel: {fileID: 0}
+  playerDamageIcon: {fileID: 4931265324880569025, guid: 88ece65e5c52c634a80df3be6f48f86a,
+    type: 3}
+  enemyDamageIcon: {fileID: 7142282606446901379, guid: 4e411a775a953f94f98d68180cdd703a,
+    type: 3}
+  blueSpawnParticles: {fileID: 4641451606374691905, guid: 4b524a2051fa84b40a4d5d4ce7a231ba,
+    type: 3}
+  darkSpawnParticles: {fileID: 2480255758901683498, guid: 846d057e9b0391b44bcdfa106bbd50b8,
+    type: 3}
+  blueSoldierGhost: {fileID: 9126894401382904759, guid: d2697b3b6926a474c80ca5c4f07ad699,
+    type: 3}
+  blueArcherGhost: {fileID: 1735488283999944302, guid: 5c37ea847c83920439c818d1e771aeaa,
+    type: 3}
+  blueScoutGhost: {fileID: 6373484711051407947, guid: 73112cff48c8c9e49a57cf327a7c3475,
+    type: 3}
+--- !u!1 &5621887844619813312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5621887844619813313}
+  - component: {fileID: 5621887844619813374}
+  m_Layer: 0
+  m_Name: '@Game Manager'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5621887844619813313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5621887844619813312}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5621887843129080282}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5621887844619813374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5621887844619813312}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 025144ef87454924c8238b11149de58f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedUnit: {fileID: 0}
+  selectedUnitSquare: {fileID: 0}
+  purchasedItem: {fileID: 0}
+  factionTurnIcon: {fileID: 0}
+  _goodFactionIcon: {fileID: 7255854300219104043, guid: 62d39609d571d72449f803937a0552e2,
+    type: 3}
+  _darkFactionIcon: {fileID: 1757168063971477599, guid: 62d39609d571d72449f803937a0552e2,
+    type: 3}
+  factionTurnText: {fileID: 0}
+  _goodFactionColor: {r: 1, g: 0.92366123, b: 0.7216981, a: 1}
+  _darkFactionColor: {r: 0.019607844, g: 0.019607844, b: 0.019607844, a: 1}
+  blueFactionGold: 0
+  darkFactionGold: 0
+  blueSoldierPrice: 30
+  blueArcherPrice: 40
+  blueScoutPrice: 45
+  darkSoldierPrice: 15
+  darkArcherPrice: 20
+  darkScoutPrice: 25
+  statsPanelShift: {x: 1.7, y: 2}
+  isGameEnded: 0
+  isDarkKingDead: 0
+  _freeTiles: []
+  isSinglePlayer: 1
+  currentEvilUnitIndex: 0
+  randomTileIndex: 0
+  factionTurn: 0
+--- !u!1 &7504383567460925244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4427853367059808859}
+  - component: {fileID: 1889975488764361363}
+  m_Layer: 0
+  m_Name: '@Audio Manager'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4427853367059808859
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7504383567460925244}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5621887843129080282}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1889975488764361363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7504383567460925244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af43a2c501e17346ae1291f0ff653a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainMusic: {fileID: 8300000, guid: e6ee71813e1303e4cb8254dd48304712, type: 3}
+  villageGoldPerTurnSfx: {fileID: 8300000, guid: 287a47ad363824a46ba05ec8aa164a12,
+    type: 3}
+  gettingHitSfx: {fileID: 8300000, guid: 05fe89e078409f24894529a9e4b16dd9, type: 3}
+  arrowShootSfx: {fileID: 8300000, guid: 2a19fb25a9e28bf40a3055d3107bb035, type: 3}
+  arrowHitSfx: {fileID: 8300000, guid: fc0c4733415e66940842ae5f373157c9, type: 3}
+  magicHealSfx: {fileID: 8300000, guid: 4c7c2606fda670e48a1f5cf9f3ae537a, type: 3}
+  blueKingMagicAttackSfx: {fileID: 8300000, guid: 51aaa4abae159654e9b0fbac071222d9,
+    type: 3}
+  darkKingMagicAttackSfx: {fileID: 8300000, guid: b923f63a05648ae41a3e14b8924ee687,
+    type: 3}
+  toggleBarracksSfx: {fileID: 8300000, guid: a1fd611a52456564a8d4ae9f6a6da1e0, type: 3}
+  villageUpgradeSfx: {fileID: 8300000, guid: fbbfdb74e9e71694d8d738b16763a51c, type: 3}
+  poofSfx: {fileID: 8300000, guid: 0e6cc7cba69bece478eed7c3f8fea286, type: 3}
+  endTurnSfx: {fileID: 8300000, guid: f54c63fd477f27948b8a31ac6a69e503, type: 3}
+  winSfx: {fileID: 8300000, guid: 358f843c7c7c81543b8c14ae9eee3157, type: 3}
+  loseSfx: {fileID: 8300000, guid: d8489860e38f437438857d3cc49c6389, type: 3}
+  blueKingSfx: {fileID: 8300000, guid: 803366c4dc2e8464db9ccda4eced303e, type: 3}
+  blueSoldierSfx: {fileID: 8300000, guid: 9664ca1158b7ce740bb10078e0413e38, type: 3}
+  blueArcherSfx: {fileID: 8300000, guid: 4776a554f8d0cb947a4364edde92eab9, type: 3}
+  blueScoutSfx: {fileID: 8300000, guid: 84eb95c4f94586848abf8f250bc49d7d, type: 3}
+  blueSettlementSfx: {fileID: 8300000, guid: d59e40ce148608f4bbc80e46bd5d7f56, type: 3}
+  blueKingAttackSfx: {fileID: 8300000, guid: a2ffd86f69343b24994b615ec4081c72, type: 3}
+  blueSoldierAttackSfx: {fileID: 8300000, guid: da25cbcb1d7f3a14fbf5cded5d78ba41,
+    type: 3}
+  blueScoutAttackSfx: {fileID: 8300000, guid: baf4d89e8b5355643b262a5db4b8d29b, type: 3}
+  darkKingSfx: {fileID: 8300000, guid: b5a6f101f002f0142849bc94156cd652, type: 3}
+  darkSoldierSfx: {fileID: 8300000, guid: 2a504fe030c7a1048bb8635238d04973, type: 3}
+  darkArcherSfx: {fileID: 8300000, guid: 077dd5cf628854b42a1223da96f1f877, type: 3}
+  darkScoutSfx: {fileID: 8300000, guid: 3761f6ebaef63a649922774acd43e0ba, type: 3}
+  darkSettlementSfx: {fileID: 8300000, guid: 0ee0323f3039ea84f974d6f8fc83e60c, type: 3}
+  darkKingAttackSfx: {fileID: 8300000, guid: 537ec0c9af9c2d3428d0e32cbefb5ba4, type: 3}
+  darkSoldierAttackSfx: {fileID: 8300000, guid: 0420dbd328bfa6e47b0a04dcff282a68,
+    type: 3}
+  darkScoutAttackSfx: {fileID: 8300000, guid: 29e4d1bf25f25764dbd2cde82213ad0b, type: 3}

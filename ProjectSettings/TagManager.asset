@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Upgrade
+  - Settlement
+  - Evil Unit
+  - Good Unit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Tile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1362453119
+    locked: 0
+  - name: Middleground
+    uniqueID: 261358371
+    locked: 0
+  - name: Foreground
+    uniqueID: 744077737
+    locked: 0
+  - name: VFX Back
+    uniqueID: 3573041761
+    locked: 0
+  - name: Dead Characters
+    uniqueID: 2268852223
+    locked: 0
+  - name: Buildings
+    uniqueID: 3320957471
+    locked: 0
+  - name: Characters
+    uniqueID: 1394762333
+    locked: 0
+  - name: Characters/Projectiles
+    uniqueID: 1801368927
+    locked: 0
+  - name: King
+    uniqueID: 2348920939
+    locked: 0
+  - name: Characters/Health
+    uniqueID: 1448419595
+    locked: 0
+  - name: Characters/Upgrade
+    uniqueID: 1469800711
+    locked: 0
+  - name: VFX Front
+    uniqueID: 2362873295
+    locked: 0
+  - name: Lightning
+    uniqueID: 2530190285
+    locked: 0
+  - name: UI
+    uniqueID: 995742239
+    locked: 0
+  - name: UI/Unit Stats
+    uniqueID: 262255163
+    locked: 0

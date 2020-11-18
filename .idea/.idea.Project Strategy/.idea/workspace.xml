@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bed9a6f3-c70d-474d-933d-8a8231f6a452" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelTitle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIPathCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Easy Save 3/Scripts/Readers/ES3Reader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimatorParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageIcon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Options.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VillageStatsCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Butterfly.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Easy Save 3/Scripts/ES3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraShakeManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CursorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnitReach.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpgradeVillage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SiteLock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnlockAllLevels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BarrackItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VillageAnimatorEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CurrentLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Village.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TreeBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AGRedirectLinks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnitStatsCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HoverEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimatorParam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Splash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Unit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelectionSquare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIUnitSpawnRegulator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BarrackController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Imported Assets/BayatGames/Utilities/SceneManager/Editor/SceneManagerWindow.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/TreeBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CursorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelectionSquare.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraShakeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/arrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Arrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BarrackItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnitStatsCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HoverEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VillageStatsCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VillageAnimatorEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Imported Assets/BayatGames/Utilities/SceneManager/Editor/SceneManagerWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlockObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Butterfly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnitReach.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tags.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimatorParam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIPathCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamageIcon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIUnitSpawnRegulator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UpgradeVillage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Village.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelTitle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CurrentLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BarrackController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Unit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnlockAllLevels.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimatorParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Splash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractableLogo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AGRedirectLinks.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Options.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZBTYTeGmoQbhijczpmdrOy4sEP" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bed9a6f3-c70d-474d-933d-8a8231f6a452" name="Default Changelist" comment="" />
+      <created>1584311540026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584311540026</updated>
+      <workItem from="1584311552260" duration="3656000" />
+      <workItem from="1584352480477" duration="16270000" />
+      <workItem from="1584447248929" duration="20291000" />
+      <workItem from="1584533684809" duration="6345000" />
+      <workItem from="1584726481097" duration="1567000" />
+      <workItem from="1584791678290" duration="11528000" />
+      <workItem from="1585080548459" duration="7546000" />
+      <workItem from="1585131210806" duration="11060000" />
+      <workItem from="1585224267344" duration="15586000" />
+      <workItem from="1585343320165" duration="6238000" />
+      <workItem from="1585406614403" duration="11768000" />
+      <workItem from="1585481885198" duration="11223000" />
+      <workItem from="1585522117426" duration="1539000" />
+      <workItem from="1585578632889" duration="2692000" />
+      <workItem from="1585736765188" duration="10809000" />
+      <workItem from="1585820712757" duration="26835000" />
+      <workItem from="1585916881026" duration="599000" />
+      <workItem from="1585918032867" duration="8123000" />
+      <workItem from="1586000683854" duration="13322000" />
+      <workItem from="1586172679724" duration="16976000" />
+      <workItem from="1586261309746" duration="9091000" />
+      <workItem from="1586436220937" duration="1435000" />
+      <workItem from="1586470511087" duration="1655000" />
+      <workItem from="1586520581839" duration="14437000" />
+      <workItem from="1586600283192" duration="3490000" />
+      <workItem from="1587046562181" duration="10807000" />
+      <workItem from="1587068504978" duration="2267000" />
+      <workItem from="1587071947782" duration="1514000" />
+      <workItem from="1587117265155" duration="6558000" />
+      <workItem from="1588535369216" duration="230000" />
+      <workItem from="1588538245696" duration="2966000" />
+      <workItem from="1588600827673" duration="597000" />
+      <workItem from="1588602159088" duration="5085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
